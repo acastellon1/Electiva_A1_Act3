@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+}
+
+
+    .imagen-intro{
+        background-color: aquamarine;
+    }
+
+    .titulo{                                   
+        background-color: brown;
+
+    }
+
+    .imagen-article{
+        width: 80px;
+        height: 80px;
+    }
